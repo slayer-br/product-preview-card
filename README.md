@@ -47,11 +47,11 @@ O projeto foi desenvolvido utilizando uma abordagem mobile first e técnicas mod
 
 ## 💡 Recursos úteis
 
--<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/"target="_blank" rel="noopener noreferrer"> Guia Flexbox - CSS Tricks</a>
--<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/"target="_blank" rel="noopener noreferrer"> Guia Grid Layout - CSS Tricks</a>
--<a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design"target="_blank" rel="noopener noreferrer"> Guia Mobile-First - MDN Web Docs</a>
--<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/"target="_blank" rel="noopener noreferrer"> Documentação oficial do HTML5</a>
--<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"target="_blank" rel="noopener noreferrer"> Documentação oficial do CSS3</a>
+-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/" target="_blank" rel="noopener noreferrer"> Guia Flexbox - CSS Tricks</a>
+-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/" target="_blank" rel="noopener noreferrer"> Guia Grid Layout - CSS Tricks</a>
+-<a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design" target="_blank" rel="noopener noreferrer"> Guia Mobile-First - MDN Web Docs</a>
+-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank" rel="noopener noreferrer"> Documentação oficial do HTML5</a>
+-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank" rel="noopener noreferrer"> Documentação oficial do CSS3</a>
 
 ## 👨‍💻 Autor
 - GitHub - <a href="https://github.com/slayer-br" target="_blank" rel="noopener noreferrer">@slayer-br</a>
