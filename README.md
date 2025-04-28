@@ -24,8 +24,8 @@ O projeto foi desenvolvido utilizando uma abordagem mobile first e técnicas mod
 ![tela](./assets/images/desktop-preview.jpg)
 
 ### 🔗 Links
-- URL da solução: <a href="https://github.com/slayer-br/product-preview-card" target="_blank" rel="noopener noreferrer">https://github.com/slayer-br/blog-preview-card</a>
-- Site ao vivo: <a href="https://slayer-br.github.io/product-preview-card" target="_blank" rel="noopener noreferrer">https://slayer-br.github.io/blog-preview-card</a>
+- URL da solução: <a href="https://github.com/slayer-br/product-preview-card" target="_blank" rel="noopener noreferrer">https://github.com/slayer-br/product-preview-card</a>
+- Site ao vivo: <a href="https://slayer-br.github.io/product-preview-card" target="_blank" rel="noopener noreferrer">https://slayer-br.github.io/product-preview-card</a>
 
 ## 🚀 Meu processo
 
