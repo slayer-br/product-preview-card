@@ -1,6 +1,6 @@
 # Frontend Mentor - solução para Product Preview Card
 
-Esta é a solução para o desafio <a href="https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa"target="_blank" rel="noopener noreferrer">Product Preview Card do Frontend Mentor</a>. O objetivo foi criar um cartão de produto responsivo com foto em voas práticas de HTML e CSS.
+Esta é a solução para o desafio <a href="https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa" target="_blank" rel="noopener noreferrer">Product Preview Card do Frontend Mentor</a>. O objetivo foi criar um cartão de produto responsivo com foto em voas práticas de HTML e CSS.
 
 - [Visão Geral](#-visão-geral)
   - [Projeto](#-projeto)
